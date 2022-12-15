@@ -1,6 +1,6 @@
 ---
-title: 브랜치뭐지
-cataegories: [base]
+title: 브랜치가 뭐지
+categories: [base]
 comments: true
 ---
 Branch(브랜치)
