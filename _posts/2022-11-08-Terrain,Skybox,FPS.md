@@ -17,7 +17,8 @@ comments: true
 
 그레이스케일맵 0:검정,255:흰색 
 
-![image-20221214194928966](C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20221214194928966.png)
+
+![img.png](img.png)
 
  그 높은 곳은 255느낌임~
 
