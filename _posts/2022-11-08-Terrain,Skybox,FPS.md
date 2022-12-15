@@ -18,7 +18,8 @@ comments: true
 그레이스케일맵 0:검정,255:흰색 
 
 
-![img.png](img.png)
+
+![](../assets/img/높이맵.PNG)
 
  그 높은 곳은 255느낌임~
 
@@ -56,7 +57,7 @@ stamp Terrain: 현재 하이트맵 위에 브러시 모양을 스태핑함.
 
 
 
-##### 
+
 
 #### Sky Box
 
