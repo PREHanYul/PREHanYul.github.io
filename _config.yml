@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: 김한율
-  pic: /assets/img/ham.jpg)
+  pic: /assets/img/ham.jpg
   picAlt: "catbook"
   job: 돈없는 학생
   aboutme: true # comment this out if you don't need the 'about' page.
